@@ -24,6 +24,7 @@
   "homepage": "https://github.com/kevit-ashish-chandpa/Rapid-Review#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "mongoose": "^7.0.0"
+    "mongoose": "^7.0.0",
+    "openai": "^3.2.1"
   }
 }
